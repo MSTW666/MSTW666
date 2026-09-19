@@ -50,7 +50,7 @@
     ]
   },
   "exploring": [
-    "Human–AI interaction",
+    "Human & AI interaction",
     "Creative software",
     "Cinematography",
     "The value of life"
@@ -97,9 +97,9 @@
   },
   "hero": {
     "lines": [
-      "Building tools for thinking, creating, and working with AI.",
+      "Fortune favors the bold.",
       "Turning messy ideas into systems that actually run.",
-      "Always building something I wish already existed."
+      "Lterate , Test , Adapt"
     ]
   },
   "_motionNote": "Per-component switches so layout stays the author's decision. Each module has its OWN effect — 01 lights indicator keys, rhythm flickers at its meter ceilings, languages sweeps, the two list panels share a row highlight because they are a matched pair, contributions runs a diagonal wave, work marches a selection marquee. `ambient: false` keeps entrances but stops the never-ending ones; `enabled: false` makes the whole page static. Every animated file also carries a prefers-reduced-motion guard, and no effect may start from opacity 0 — see lib/motion.mjs.",
