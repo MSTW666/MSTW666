@@ -34,8 +34,8 @@
 <div align="center">
 
 <picture>
-  <source media="(max-width: 500px)" srcset="assets/generated/hero-m.svg?v=85473975f139">
-  <img alt="Building tools for thinking, creating, and working with AI. Turning messy ideas into systems that actually run. Always building something I wish already existed." title="Three sentences, typed" src="assets/generated/hero.svg?v=1cf8433ce885">
+  <source media="(max-width: 500px)" srcset="assets/generated/hero-m.svg?v=bc614b6607f8">
+  <img alt="Building tools for thinking, creating, and working with AI. Turning messy ideas into systems that actually run. Always building something I wish already existed." title="Three sentences, typed" src="assets/generated/hero.svg?v=395ec53dfa69">
 </picture>
 
 </div>
@@ -48,8 +48,8 @@
 </picture>
 
 <picture>
-  <source media="(max-width: 500px)" srcset="assets/generated/about-m.svg?v=90fd3fd5e89b">
-  <img title="Kaiyu Wen — software newcomer" alt="Kaiyu Wen. I am a software beginner.I am intensely curious about all software features.I love exploring the world and constantly pushing my personal boundaries. Besides that, I'm also really into photography, film, and basketball.I love finding the meaning of life in the subtle interplay of light and shadow.If you are open to it, I would love to stay in touch and hopefully become friends." src="assets/generated/about.svg?v=0dc30dce5704">
+  <source media="(max-width: 500px)" srcset="assets/generated/about-m.svg?v=1239d022e6ed">
+  <img title="Kaiyu Wen — software newcomer" alt="Kaiyu Wen. I am a software beginner.I am intensely curious about all software features.I love exploring the world and constantly pushing my personal boundaries. Besides that, I'm also really into photography, film, and basketball.I love finding the meaning of life in the subtle interplay of light and shadow.If you are open to it, I would love to stay in touch and hopefully become friends." src="assets/generated/about.svg?v=a189340fb9bc">
 </picture>
 
 <!-- 02 // THROUGH MY LENS — HIDDEN 2026-08-31 · test placeholder, not rendered. To restore: `git show d93f515:README.md` or revert this hunk.
@@ -107,8 +107,8 @@
 </picture>
 
 <picture>
-  <source media="(max-width: 500px)" srcset="assets/generated/contributions-m.svg?v=36f1ff35c348">
-  <img alt="A year of contributions drawn as a filled field" title="A year of contributions" src="assets/generated/contributions.svg?v=6d3110bcaa9e">
+  <source media="(max-width: 500px)" srcset="assets/generated/contributions-m.svg?v=946c48d4ebb0">
+  <img alt="A year of contributions drawn as a filled field" title="A year of contributions" src="assets/generated/contributions.svg?v=375fbe1420a9">
 </picture>
 
 <!-- ═══ 06 // AESTHETIC INPUTS ═══════════════════════════════════════════ -->
