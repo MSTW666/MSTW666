@@ -34,8 +34,8 @@
 <div align="center">
 
 <picture>
-  <source media="(max-width: 500px)" srcset="assets/generated/hero-m.svg?v=f4f8be12fef3">
-  <img alt="Building tools for thinking, creating, and working with AI. Turning messy ideas into systems that actually run. Always building something I wish already existed." title="Three sentences, typed" src="assets/generated/hero.svg?v=ec08626f386b">
+  <source media="(max-width: 500px)" srcset="assets/generated/hero-m.svg?v=7c2ee1fff9a6">
+  <img alt="Building tools for thinking, creating, and working with AI. Turning messy ideas into systems that actually run. Always building something I wish already existed." title="Three sentences, typed" src="assets/generated/hero.svg?v=205860763dcc">
 </picture>
 
 </div>
@@ -107,8 +107,8 @@
 </picture>
 
 <picture>
-  <source media="(max-width: 500px)" srcset="assets/generated/contributions-m.svg?v=85655ccc24b3">
-  <img alt="A year of contributions drawn as a filled field" title="A year of contributions" src="assets/generated/contributions.svg?v=584d161b56c5">
+  <source media="(max-width: 500px)" srcset="assets/generated/contributions-m.svg?v=f3ae40e06732">
+  <img alt="A year of contributions drawn as a filled field" title="A year of contributions" src="assets/generated/contributions.svg?v=ff432533d733">
 </picture>
 
 <!-- ═══ 06 // AESTHETIC INPUTS ═══════════════════════════════════════════ -->
