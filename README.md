@@ -34,8 +34,8 @@
 <div align="center">
 
 <picture>
-  <source media="(max-width: 500px)" srcset="assets/generated/hero-m.svg?v=bc614b6607f8">
-  <img alt="Building tools for thinking, creating, and working with AI. Turning messy ideas into systems that actually run. Always building something I wish already existed." title="Three sentences, typed" src="assets/generated/hero.svg?v=395ec53dfa69">
+  <source media="(max-width: 500px)" srcset="assets/generated/hero-m.svg?v=f4f8be12fef3">
+  <img alt="Building tools for thinking, creating, and working with AI. Turning messy ideas into systems that actually run. Always building something I wish already existed." title="Three sentences, typed" src="assets/generated/hero.svg?v=ec08626f386b">
 </picture>
 
 </div>
@@ -87,8 +87,8 @@
 </picture>
 
 <picture>
-  <source media="(max-width: 500px)" srcset="assets/generated/rhythm-m.svg?v=9474958b3836">
-  <img alt="Coding rhythm — activity by hour and by weekday over the observed window of the public events feed." title="When I work — from the public events feed, aggregate only" src="assets/generated/rhythm.svg?v=7b57482e6531">
+  <source media="(max-width: 500px)" srcset="assets/generated/rhythm-m.svg?v=03fa199e2f1b">
+  <img alt="Coding rhythm — activity by hour and by weekday over the observed window of the public events feed." title="When I work — from the public events feed, aggregate only" src="assets/generated/rhythm.svg?v=3e74b9862db4">
 </picture>
 
 <picture>
@@ -107,8 +107,8 @@
 </picture>
 
 <picture>
-  <source media="(max-width: 500px)" srcset="assets/generated/contributions-m.svg?v=946c48d4ebb0">
-  <img alt="A year of contributions drawn as a filled field" title="A year of contributions" src="assets/generated/contributions.svg?v=375fbe1420a9">
+  <source media="(max-width: 500px)" srcset="assets/generated/contributions-m.svg?v=85655ccc24b3">
+  <img alt="A year of contributions drawn as a filled field" title="A year of contributions" src="assets/generated/contributions.svg?v=584d161b56c5">
 </picture>
 
 <!-- ═══ 06 // AESTHETIC INPUTS ═══════════════════════════════════════════ -->
