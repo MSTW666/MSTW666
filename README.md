@@ -76,6 +76,7 @@
      Editing them will be overwritten, and check.mjs fails if they disagree with
      what was actually generated. One line per card, never wrapped — see the
      note at the top of this file. -->
+
 <!-- SELECTED_WORK_END -->
 
 <!-- ═══ 04 // HOW I WORK ═════════════════════════════════════════════════ -->
