@@ -34,8 +34,8 @@
 <div align="center">
 
 <picture>
-  <source media="(max-width: 500px)" srcset="assets/generated/hero-m.svg">
-  <img alt="Building tools for thinking, creating, and working with AI. Turning messy ideas into systems that actually run. Always building something I wish already existed." title="Three sentences, typed" src="assets/generated/hero.svg">
+  <source media="(max-width: 500px)" srcset="assets/generated/hero-m.svg?v=85473975f139">
+  <img alt="Building tools for thinking, creating, and working with AI. Turning messy ideas into systems that actually run. Always building something I wish already existed." title="Three sentences, typed" src="assets/generated/hero.svg?v=1cf8433ce885">
 </picture>
 
 </div>
@@ -43,31 +43,31 @@
 <!-- ═══ 01 // ABOUT ME ═══════════════════════════════════════════════════ -->
 
 <picture>
-  <source media="(max-width: 500px)" srcset="assets/generated/sec-01-m.svg">
-  <img alt="01 // About me" title="01 // About me" src="assets/generated/sec-01.svg">
+  <source media="(max-width: 500px)" srcset="assets/generated/sec-01-m.svg?v=d031f72c622e">
+  <img alt="01 // About me" title="01 // About me" src="assets/generated/sec-01.svg?v=23af084d0e60">
 </picture>
 
 <picture>
-  <source media="(max-width: 500px)" srcset="assets/generated/about-m.svg">
-  <img title="Kaiyu Wen — software newcomer" alt="Kaiyu Wen. I am a software beginner.I am intensely curious about all software features.I love exploring the world and constantly pushing my personal boundaries. Besides that, I'm also really into photography, film, and basketball.I love finding the meaning of life in the subtle interplay of light and shadow.If you are open to it, I would love to stay in touch and hopefully become friends." src="assets/generated/about.svg">
+  <source media="(max-width: 500px)" srcset="assets/generated/about-m.svg?v=90fd3fd5e89b">
+  <img title="Kaiyu Wen — software newcomer" alt="Kaiyu Wen. I am a software beginner.I am intensely curious about all software features.I love exploring the world and constantly pushing my personal boundaries. Besides that, I'm also really into photography, film, and basketball.I love finding the meaning of life in the subtle interplay of light and shadow.If you are open to it, I would love to stay in touch and hopefully become friends." src="assets/generated/about.svg?v=0dc30dce5704">
 </picture>
 
 <!-- 02 // THROUGH MY LENS — HIDDEN 2026-08-31 · test placeholder, not rendered. To restore: `git show d93f515:README.md` or revert this hunk.
 <picture>
-  <source media="(max-width: 500px)" srcset="assets/generated/sec-02-m.svg">
-  <img alt="02 // Through my lens — frames, light, places, and things that made me stop for a second." title="02 // Through my lens" src="assets/generated/sec-02.svg">
+  <source media="(max-width: 500px)" srcset="assets/generated/sec-02-m.svg?v=c815c7f2ce3e">
+  <img alt="02 // Through my lens — frames, light, places, and things that made me stop for a second." title="02 // Through my lens" src="assets/generated/sec-02.svg?v=19bbafe11e12">
 </picture>
 <picture>
-  <source media="(max-width: 500px)" srcset="assets/generated/photoband-m.svg">
-  <img alt="Through my lens — a band of frames, each at its own ratio, never cropped." title="Through my lens" src="assets/generated/photoband.svg">
+  <source media="(max-width: 500px)" srcset="assets/generated/photoband-m.svg?v=b01094e4e4d7">
+  <img alt="Through my lens — a band of frames, each at its own ratio, never cropped." title="Through my lens" src="assets/generated/photoband.svg?v=9abf7578f20e">
 </picture>
 -->
 
 <!-- ═══ 03 // SELECTED WORK ══════════════════════════════════════════════ -->
 
 <picture>
-  <source media="(max-width: 500px)" srcset="assets/generated/sec-03-m.svg">
-  <img alt="03 // Selected work — tools I wanted to exist, so I built them." title="03 // Selected work" src="assets/generated/sec-03.svg">
+  <source media="(max-width: 500px)" srcset="assets/generated/sec-03-m.svg?v=f9356083ad05">
+  <img alt="03 // Selected work — tools I wanted to exist, so I built them." title="03 // Selected work" src="assets/generated/sec-03.svg?v=d3b66e279bb3">
 </picture>
 
 <!-- SELECTED_WORK_START — rewritten by scripts/build.mjs on every run. Do not
@@ -82,33 +82,33 @@
 <!-- ═══ 04 // HOW I WORK ═════════════════════════════════════════════════ -->
 
 <picture>
-  <source media="(max-width: 500px)" srcset="assets/generated/sec-04-m.svg">
-  <img alt="04 // How I work — where the hours go, and what the code is actually made of." title="04 // How I work" src="assets/generated/sec-04.svg">
+  <source media="(max-width: 500px)" srcset="assets/generated/sec-04-m.svg?v=0858af6b8b5c">
+  <img alt="04 // How I work — where the hours go, and what the code is actually made of." title="04 // How I work" src="assets/generated/sec-04.svg?v=dc4534f809a5">
 </picture>
 
 <picture>
-  <source media="(max-width: 500px)" srcset="assets/generated/rhythm-m.svg">
-  <img alt="Coding rhythm — activity by hour and by weekday over the observed window of the public events feed." title="When I work — from the public events feed, aggregate only" src="assets/generated/rhythm.svg">
+  <source media="(max-width: 500px)" srcset="assets/generated/rhythm-m.svg?v=9474958b3836">
+  <img alt="Coding rhythm — activity by hour and by weekday over the observed window of the public events feed." title="When I work — from the public events feed, aggregate only" src="assets/generated/rhythm.svg?v=7b57482e6531">
 </picture>
 
 <picture>
-  <source media="(max-width: 500px)" srcset="assets/generated/languages-m.svg">
-  <img alt="Language signal — lines I added in commits I authored, across my owned public repositories." title="Lines I wrote, from a real clone and git log --numstat" src="assets/generated/languages.svg">
+  <source media="(max-width: 500px)" srcset="assets/generated/languages-m.svg?v=396ea9015765">
+  <img alt="Language signal — lines I added in commits I authored, across my owned public repositories." title="Lines I wrote, from a real clone and git log --numstat" src="assets/generated/languages.svg?v=e3ddba5ec849">
 </picture>
 
-<a href="https://github.com/MSTW666?tab=stars"><picture><source media="(max-width: 500px)" srcset="assets/generated/stars-m.svg"><img alt="Recently starred repositories — opens my stars tab" title="Open my stars tab" src="assets/generated/stars.svg"></picture></a>
-<picture><source media="(max-width: 500px)" srcset="assets/generated/activity-m.svg"><img alt="Recent activity — releases, repositories opened to the public, pull requests" title="Releases, repos opened to the public, pull requests" src="assets/generated/activity.svg"></picture>
+<a href="https://github.com/MSTW666?tab=stars"><picture><source media="(max-width: 500px)" srcset="assets/generated/stars-m.svg?v=0b9cf225de84"><img alt="Recently starred repositories — opens my stars tab" title="Open my stars tab" src="assets/generated/stars.svg?v=bda477b83f6c"></picture></a>
+<picture><source media="(max-width: 500px)" srcset="assets/generated/activity-m.svg?v=840db64db724"><img alt="Recent activity — releases, repositories opened to the public, pull requests" title="Releases, repos opened to the public, pull requests" src="assets/generated/activity.svg?v=a0312058c078"></picture>
 
 <!-- ═══ 05 // CONTRIBUTIONS ══════════════════════════════════════════════ -->
 
 <picture>
-  <source media="(max-width: 500px)" srcset="assets/generated/sec-05-m.svg">
-  <img alt="05 // Contributions" title="05 // Contributions" src="assets/generated/sec-05.svg">
+  <source media="(max-width: 500px)" srcset="assets/generated/sec-05-m.svg?v=368519bd1739">
+  <img alt="05 // Contributions" title="05 // Contributions" src="assets/generated/sec-05.svg?v=22a53d1a6ab7">
 </picture>
 
 <picture>
-  <source media="(max-width: 500px)" srcset="assets/generated/contributions-m.svg">
-  <img alt="A year of contributions drawn as a filled field" title="A year of contributions" src="assets/generated/contributions.svg">
+  <source media="(max-width: 500px)" srcset="assets/generated/contributions-m.svg?v=085f11282bd5">
+  <img alt="A year of contributions drawn as a filled field" title="A year of contributions" src="assets/generated/contributions.svg?v=4de7a3e8f923">
 </picture>
 
 <!-- ═══ 06 // AESTHETIC INPUTS ═══════════════════════════════════════════ -->
@@ -117,24 +117,24 @@
 <!-- ═══ 07 // CONTACT ════════════════════════════════════════════════════ -->
 
 <picture>
-  <source media="(max-width: 500px)" srcset="assets/generated/sec-07-m.svg">
-  <img alt="07 // Contact" title="07 // Contact" src="assets/generated/sec-07.svg">
+  <source media="(max-width: 500px)" srcset="assets/generated/sec-07-m.svg?v=5d2fb2991548">
+  <img alt="07 // Contact" title="07 // Contact" src="assets/generated/sec-07.svg?v=85a1e2621c89">
 </picture>
 
 <!-- CONTACT_START -->
-<a href="mailto:2578836765@qq.com"><picture><img alt="EMAIL" title="EMAIL" src="assets/generated/btn-email.svg"></picture></a>
+<a href="mailto:2578836765@qq.com"><picture><img alt="EMAIL" title="EMAIL" src="assets/generated/btn-email.svg?v=e5a5c03089f7"></picture></a>
 <!-- CONTACT_END -->
 
 <!-- ═══ 08 // FORTUNE ════════════════════════════════════════════════════ -->
 
 <picture>
-  <source media="(max-width: 500px)" srcset="assets/generated/sec-08-m.svg">
-  <img alt="08 // Fortune" title="08 // Fortune" src="assets/generated/sec-08.svg">
+  <source media="(max-width: 500px)" srcset="assets/generated/sec-08-m.svg?v=62687422d8fa">
+  <img alt="08 // Fortune" title="08 // Fortune" src="assets/generated/sec-08.svg?v=8f85eeb10864">
 </picture>
 
 <picture>
-  <source media="(max-width: 500px)" srcset="assets/generated/fortune-m.svg">
-  <img alt="A line that changes daily" title="Changes daily" src="assets/generated/fortune.svg">
+  <source media="(max-width: 500px)" srcset="assets/generated/fortune-m.svg?v=0a80053a99fe">
+  <img alt="A line that changes daily" title="Changes daily" src="assets/generated/fortune.svg?v=8dc6cd2c09df">
 </picture>
 
 

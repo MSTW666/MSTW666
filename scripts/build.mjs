@@ -19,6 +19,7 @@ import { THEME } from "./lib/design.mjs"
 import { collect, languageBytes } from "./lib/sources.mjs"
 import { signalState } from "./lib/projects.mjs"
 import { cardLinks, contactLinks } from "./lib/readme.mjs"
+import { versionImages } from "./lib/image-versions.mjs"
 
 import * as hero from "./panels/hero.mjs"
 import * as rhythm from "./panels/rhythm.mjs"
@@ -334,6 +335,14 @@ async function rewriteReadmeCards(picked) {
   // it. It is committed alongside on purpose: a card that is generated but not
   // linked is a card nobody sees.
   console.log(`  readme          SELECTED_WORK rewritten (${picked.length} cards)`)
+}
+
+// Run after all generated README blocks have been rewritten.
+{
+  const path = resolve(ROOT, "README.md")
+  const src = await readFile(path, "utf8")
+  const next = await versionImages(src, ROOT)
+  if (next !== src) await writeFile(path, next, "utf8")
 }
 
 /* ----------------------------------------------------------------- helpers */

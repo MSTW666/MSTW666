@@ -31,7 +31,7 @@ const gallery = await readFile(resolve(ROOT, "docs/COMPONENTS.md"), "utf8").catc
 const live = (readme + gallery).replace(/<!--[\s\S]*?-->/g, "").replace(/\.\.\//g, "")
 
 const referenced = new Set()
-for (const m of live.matchAll(/(?:src|srcset)="([^"]+)"/g)) referenced.add(m[1])
+for (const m of live.matchAll(/(?:src|srcset)="([^"]+)"/g)) referenced.add(m[1].split(/[?#]/)[0])
 for (const m of live.matchAll(/<a href="(assets\/[^"]+)"/g)) referenced.add(m[1])
 
 const problems = []
@@ -96,7 +96,7 @@ if (Array.isArray(state?.keys)) {
     // Only the desktop `src` is taken: the phone variant sits in `srcset`, and a
     // looser pattern would capture `alpha-m` as a key of its own and then report
     // an ordering mismatch that is not there.
-    const order = [...block.matchAll(/src="assets\/generated\/work-([a-z0-9-]+)\.svg"/g)].map((m) => m[1])
+    const order = [...block.matchAll(/src="assets\/generated\/work-([a-z0-9-]+)\.svg(?:\?[^"#]*)?"/g)].map((m) => m[1])
     const want = state.keys
     if (order.length !== want.length || order.some((k, i) => k !== want[i])) {
       problems.push(
