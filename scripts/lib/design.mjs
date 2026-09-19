@@ -74,23 +74,21 @@ const PALETTE = {
     ink: "#C9D1D9",
     inkDim: "#8B949E",
     inkFaint: "#6E7681",
-    accent: "#58A6FF",
-    // Titles sit on a soft blue rather than on the grey ramp. Against neutral
-    // body text that reads as a heading without spending a second type size,
-    // and it lifts blue toward its intended share of the page.
-    titleInk: "#79C0FF",
+    accent: "#FB923C",
+    // Soft orange titles stand out against neutral body text.
+    titleInk: "#FDBA74",
     // Four filled steps, not four dot sizes. Step one has to be clearly
     // brighter than "empty" or a quiet day reads as no day at all.
     // Bright enough that a meter's unfilled capacity still reads — that is the
     // whole point of a segmented meter — while data1 stays clearly above it.
     dataEmpty: "#252C36",
-    data1: "#1E4C8C",
-    data2: "#2E77D0",
-    data3: "#54A0F5",
-    data4: "#8FD0FF",
-    dataLow: "#1F3A5F",
-    dataMid: "#2C6BC9",
-    dataHigh: "#58A6FF",
+    data1: "#7C2D12",
+    data2: "#C2410C",
+    data3: "#F97316",
+    data4: "#FDBA74",
+    dataLow: "#5C2B12",
+    dataMid: "#C2410C",
+    dataHigh: "#FB923C",
     // Darker than the page, so the offset block reads as a shadow and not as
     // another panel.
     shadow: "#000000",
@@ -103,16 +101,16 @@ const PALETTE = {
     ink: "#24292F",
     inkDim: "#57606A",
     inkFaint: "#818B98",
-    accent: "#0969DA",
-    titleInk: "#0969DA",
+    accent: "#C2410C",
+    titleInk: "#C2410C",
     dataEmpty: "#EBEFF3",
-    data1: "#A8CDF6",
-    data2: "#5B9BE8",
-    data3: "#1F6FEB",
-    data4: "#0A4FA8",
-    dataLow: "#BFDBFE",
-    dataMid: "#60A5FA",
-    dataHigh: "#0969DA",
+    data1: "#FED7AA",
+    data2: "#FDBA74",
+    data3: "#F97316",
+    data4: "#9A3412",
+    dataLow: "#FFEDD5",
+    dataMid: "#FB923C",
+    dataHigh: "#C2410C",
     shadow: "#BFC8D2",
   },
 }
@@ -342,7 +340,6 @@ export const deEmoji = (str) =>
     .trim()
 
 export { label, value, body, text, width, labelWidth, valueWidth, bodyWidth, fit, MICRO, BIG, adv, cap, n as num }
-
 
 
 
