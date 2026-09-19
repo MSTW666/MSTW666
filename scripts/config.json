@@ -1,0 +1,187 @@
+{
+  "login": "MSTW666",
+  "timezone": "Asia/Shanghai",
+  "sections": [
+    {
+      "key": "01",
+      "num": "01",
+      "title": "About me"
+    },
+    {
+      "key": "02",
+      "num": "02",
+      "title": "Through my lens",
+      "sub": "Frames, light, places, and things that made me stop for a second."
+    },
+    {
+      "key": "03",
+      "num": "03",
+      "title": "Selected work",
+      "sub": "Tools I wanted to exist, so I built them."
+    },
+    {
+      "key": "04",
+      "num": "04",
+      "title": "How I work",
+      "sub": "Where the hours go, and what the code is actually made of."
+    },
+    {
+      "key": "05",
+      "num": "05",
+      "title": "Contributions"
+    },
+    {
+      "key": "07",
+      "num": "07",
+      "title": "Contact"
+    },
+    {
+      "key": "08",
+      "num": "08",
+      "title": "Fortune"
+    }
+  ],
+  "about": {
+    "name": "Kaiyu Wen",
+    "meta": "software newcomer",
+    "paragraphs": [
+      "I am a software beginner.I am intensely curious about all software features.I love exploring the world and constantly pushing my personal boundaries.",
+      "Besides that, I'm also really into photography, film, and basketball.I love finding the meaning of life in the subtle interplay of light and shadow.If you are open to it, I would love to stay in touch and hopefully become friends."
+    ]
+  },
+  "exploring": [
+    "Human–AI interaction",
+    "Creative software",
+    "Cinematography",
+    "The value of life"
+  ],
+  "principles": [
+    "Even in the darkest night, there is still light in the new dawn.",
+    "Progress, not perfection."
+  ],
+  "_componentNote": "Not shown on the profile. These drive the reusable component set — see docs/COMPONENTS.md. Everything is config, so a fork changes these values and never touches the code.",
+  "display": {
+    "text": "KAIYU WEN",
+    "treatment": "hollow",
+    "colour": "ink",
+    "sweep": true,
+    "sweepPeriod": 4600
+  },
+  "tiles": [
+    {
+      "label": "SHIPPED",
+      "value": "4 tools",
+      "note": "MIT"
+    },
+    {
+      "label": "OBSERVED",
+      "value": "22 days"
+    },
+    {
+      "label": "PEAK",
+      "value": "143",
+      "note": "Aug 19"
+    },
+    {
+      "label": "STREAK",
+      "value": "15 days"
+    }
+  ],
+  "quote": {
+    "text": "Human judgment stays in the loop. A model can hold the context; it cannot hold the responsibility.",
+    "by": "the point of all of this"
+  },
+  "_photobandNote": "No personal photographs configured yet. Add your own images and their dimensions here.",
+  "photoband": {
+    "photos": []
+  },
+  "hero": {
+    "lines": [
+      "Building tools for thinking, creating, and working with AI.",
+      "Turning messy ideas into systems that actually run.",
+      "Always building something I wish already existed."
+    ]
+  },
+  "_motionNote": "Per-component switches so layout stays the author's decision. Each module has its OWN effect — 01 lights indicator keys, rhythm flickers at its meter ceilings, languages sweeps, the two list panels share a row highlight because they are a matched pair, contributions runs a diagonal wave, work marches a selection marquee. `ambient: false` keeps entrances but stops the never-ending ones; `enabled: false` makes the whole page static. Every animated file also carries a prefers-reduced-motion guard, and no effect may start from opacity 0 — see lib/motion.mjs.",
+  "motion": {
+    "enabled": true,
+    "hero": true,
+    "about": true,
+    "rhythm": true,
+    "languages": true,
+    "stars": true,
+    "activity": true,
+    "contributions": true,
+    "contributionStyle": "pixel",
+    "contributionPeriod": 3000,
+    "sections": true,
+    "work": true,
+    "fortune": true
+  },
+  "activity": {
+    "types": [
+      "pr",
+      "release",
+      "review",
+      "issue",
+      "ref/create",
+      "public",
+      "fork"
+    ],
+    "limit": 5,
+    "days": 120
+  },
+  "_contactNote": "Contact buttons and links are generated from this array. Disable a contact to remove its link.",
+  "contact": [
+    {
+      "key": "email",
+      "label": "EMAIL",
+      "href": "mailto:2578836765@qq.com",
+      "enabled": true
+    }
+  ],
+  "fortunes": [
+    "The tool you keep meaning to build is the one you need most.",
+    "A system nobody can explain is a system nobody can fix.",
+    "Autocomplete is not agreement.",
+    "Ship the ugly version. The pretty one never arrives on its own.",
+    "Every abstraction is a promise you will have to keep later.",
+    "If it only works when you are watching, it does not work.",
+    "Good defaults beat good documentation.",
+    "The messy draft already knows what the clean one is trying to say.",
+    "A model can hold the context. It cannot hold the responsibility.",
+    "Name it badly and you will build it badly.",
+    "Delete the feature you keep apologising for.",
+    "The best interface is the one you stop noticing.",
+    "Constraints are the part of the brief that survives contact with reality.",
+    "You cannot automate a decision you have never made by hand.",
+    "Any pipeline long enough contains one step nobody understands.",
+    "Taste is just the errors you have already made, remembered.",
+    "If the demo needs narration, the design is not finished.",
+    "Prototypes are arguments. Ship the one that wins.",
+    "Most 'AI problems' are unclear-input problems wearing a costume.",
+    "Two hours of naming things saves two weeks of explaining them."
+  ],
+  "_cardOverridesNote": "Optional card copy keyed by owner/repository. Membership and order follow your GitHub pins.",
+  "_dynamicNote": "WHAT IS DYNAMIC HERE, IN ONE PLACE. SELECTED WORK: the set of cards (the pins), their order (the pin order), the url and repo behind each. LANGUAGE SIGNAL: its numbers, and its scope — every public repository this account owns. WHAT IS CURATED: every hand-written word, which lives in `cardOverrides` below and changes only when this file is edited.",
+  "cardOverrides": {},
+  "_languageScopeNote": "Count authored additions across owned public repositories, excluding forks, archives and the profile repository. Identities match commit author information.",
+  "languageScopeOptions": {
+    "method": "authored-lines",
+    "identities": [
+      "2578836765@qq.com",
+      "MSTW666"
+    ],
+    "exclude": [
+      "JSON",
+      "SVG",
+      "HTML",
+      "TOML",
+      "Batchfile",
+      "VBScript",
+      "Makefile",
+      "Dockerfile"
+    ],
+    "limit": 6
+  }
+}
