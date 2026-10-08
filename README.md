@@ -107,8 +107,8 @@
 </picture>
 
 <picture>
-  <source media="(max-width: 500px)" srcset="assets/generated/contributions-m.svg?v=148cae5614f2">
-  <img alt="A year of contributions drawn as a filled field" title="A year of contributions" src="assets/generated/contributions.svg?v=521b2d90a6fb">
+  <source media="(max-width: 500px)" srcset="assets/generated/contributions-m.svg?v=3864a41862cd">
+  <img alt="A year of contributions drawn as a filled field" title="A year of contributions" src="assets/generated/contributions.svg?v=edde3047aec4">
 </picture>
 
 <!-- ═══ 06 // AESTHETIC INPUTS ═══════════════════════════════════════════ -->
@@ -133,8 +133,8 @@
 </picture>
 
 <picture>
-  <source media="(max-width: 500px)" srcset="assets/generated/fortune-m.svg?v=b88cc52f9cab">
-  <img alt="A line that changes daily" title="Changes daily" src="assets/generated/fortune.svg?v=c6222ec0e66c">
+  <source media="(max-width: 500px)" srcset="assets/generated/fortune-m.svg?v=af520b8fb8af">
+  <img alt="A line that changes daily" title="Changes daily" src="assets/generated/fortune.svg?v=964c3a175235">
 </picture>
 
 
