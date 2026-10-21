@@ -96,7 +96,7 @@
   <img alt="Language signal — lines I added in commits I authored, across my owned public repositories." title="Lines I wrote, from a real clone and git log --numstat" src="assets/generated/languages.svg?v=e3ddba5ec849">
 </picture>
 
-<a href="https://github.com/MSTW666?tab=stars"><picture><source media="(max-width: 500px)" srcset="assets/generated/stars-m.svg?v=f2c13d882d35"><img alt="Recently starred repositories — opens my stars tab" title="Open my stars tab" src="assets/generated/stars.svg?v=cd229e3e84a0"></picture></a>
+<a href="https://github.com/MSTW666?tab=stars"><picture><source media="(max-width: 500px)" srcset="assets/generated/stars-m.svg?v=9f96e94069d3"><img alt="Recently starred repositories — opens my stars tab" title="Open my stars tab" src="assets/generated/stars.svg?v=6c2d8c963345"></picture></a>
 <picture><source media="(max-width: 500px)" srcset="assets/generated/activity-m.svg?v=840db64db724"><img alt="Recent activity — releases, repositories opened to the public, pull requests" title="Releases, repos opened to the public, pull requests" src="assets/generated/activity.svg?v=a0312058c078"></picture>
 
 <!-- ═══ 05 // CONTRIBUTIONS ══════════════════════════════════════════════ -->
@@ -107,8 +107,8 @@
 </picture>
 
 <picture>
-  <source media="(max-width: 500px)" srcset="assets/generated/contributions-m.svg?v=6ff61f710cc2">
-  <img alt="A year of contributions drawn as a filled field" title="A year of contributions" src="assets/generated/contributions.svg?v=e4cd7df844cc">
+  <source media="(max-width: 500px)" srcset="assets/generated/contributions-m.svg?v=7521f8d6bfdd">
+  <img alt="A year of contributions drawn as a filled field" title="A year of contributions" src="assets/generated/contributions.svg?v=88afaab8dd61">
 </picture>
 
 <!-- ═══ 06 // AESTHETIC INPUTS ═══════════════════════════════════════════ -->
@@ -133,8 +133,8 @@
 </picture>
 
 <picture>
-  <source media="(max-width: 500px)" srcset="assets/generated/fortune-m.svg?v=092b0e2a0396">
-  <img alt="A line that changes daily" title="Changes daily" src="assets/generated/fortune.svg?v=8a866bd651db">
+  <source media="(max-width: 500px)" srcset="assets/generated/fortune-m.svg?v=8d2b8038d081">
+  <img alt="A line that changes daily" title="Changes daily" src="assets/generated/fortune.svg?v=0ff6b454dbd2">
 </picture>
 
 
