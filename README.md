@@ -87,8 +87,8 @@
 </picture>
 
 <picture>
-  <source media="(max-width: 500px)" srcset="assets/generated/rhythm-m.svg?v=772323ac92c0">
-  <img alt="Coding rhythm — activity by hour and by weekday over the observed window of the public events feed." title="When I work — from the public events feed, aggregate only" src="assets/generated/rhythm.svg?v=3f4a314c8427">
+  <source media="(max-width: 500px)" srcset="assets/generated/rhythm-m.svg?v=e4dbd67d0ed9">
+  <img alt="Coding rhythm — activity by hour and by weekday over the observed window of the public events feed." title="When I work — from the public events feed, aggregate only" src="assets/generated/rhythm.svg?v=bb70c7af0df6">
 </picture>
 
 <picture>
@@ -96,7 +96,7 @@
   <img alt="Language signal — lines I added in commits I authored, across my owned public repositories." title="Lines I wrote, from a real clone and git log --numstat" src="assets/generated/languages.svg?v=e3ddba5ec849">
 </picture>
 
-<a href="https://github.com/MSTW666?tab=stars"><picture><source media="(max-width: 500px)" srcset="assets/generated/stars-m.svg?v=cca0cfb9cc42"><img alt="Recently starred repositories — opens my stars tab" title="Open my stars tab" src="assets/generated/stars.svg?v=388eb94309a8"></picture></a>
+<a href="https://github.com/MSTW666?tab=stars"><picture><source media="(max-width: 500px)" srcset="assets/generated/stars-m.svg?v=84934a02f39b"><img alt="Recently starred repositories — opens my stars tab" title="Open my stars tab" src="assets/generated/stars.svg?v=f5a2b0d7c8d9"></picture></a>
 <picture><source media="(max-width: 500px)" srcset="assets/generated/activity-m.svg?v=840db64db724"><img alt="Recent activity — releases, repositories opened to the public, pull requests" title="Releases, repos opened to the public, pull requests" src="assets/generated/activity.svg?v=a0312058c078"></picture>
 
 <!-- ═══ 05 // CONTRIBUTIONS ══════════════════════════════════════════════ -->
