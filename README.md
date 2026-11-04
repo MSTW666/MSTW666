@@ -87,8 +87,8 @@
 </picture>
 
 <picture>
-  <source media="(max-width: 500px)" srcset="assets/generated/rhythm-m.svg?v=e4dbd67d0ed9">
-  <img alt="Coding rhythm — activity by hour and by weekday over the observed window of the public events feed." title="When I work — from the public events feed, aggregate only" src="assets/generated/rhythm.svg?v=bb70c7af0df6">
+  <source media="(max-width: 500px)" srcset="assets/generated/rhythm-m.svg?v=b3d170c68edd">
+  <img alt="Coding rhythm — activity by hour and by weekday over the observed window of the public events feed." title="When I work — from the public events feed, aggregate only" src="assets/generated/rhythm.svg?v=a08aa7d8bc37">
 </picture>
 
 <picture>
@@ -107,8 +107,8 @@
 </picture>
 
 <picture>
-  <source media="(max-width: 500px)" srcset="assets/generated/contributions-m.svg?v=9638abf5689b">
-  <img alt="A year of contributions drawn as a filled field" title="A year of contributions" src="assets/generated/contributions.svg?v=503eb929a307">
+  <source media="(max-width: 500px)" srcset="assets/generated/contributions-m.svg?v=cdd7ae7d4a9b">
+  <img alt="A year of contributions drawn as a filled field" title="A year of contributions" src="assets/generated/contributions.svg?v=dab56b1c26c0">
 </picture>
 
 <!-- ═══ 06 // AESTHETIC INPUTS ═══════════════════════════════════════════ -->
@@ -133,8 +133,8 @@
 </picture>
 
 <picture>
-  <source media="(max-width: 500px)" srcset="assets/generated/fortune-m.svg?v=a7a2854ed1ff">
-  <img alt="A line that changes daily" title="Changes daily" src="assets/generated/fortune.svg?v=8a4b9a0f4574">
+  <source media="(max-width: 500px)" srcset="assets/generated/fortune-m.svg?v=854acc018728">
+  <img alt="A line that changes daily" title="Changes daily" src="assets/generated/fortune.svg?v=fcca9f0ba600">
 </picture>
 
 
