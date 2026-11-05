@@ -87,16 +87,16 @@
 </picture>
 
 <picture>
-  <source media="(max-width: 500px)" srcset="assets/generated/rhythm-m.svg?v=d2d83df2b79f">
-  <img alt="Coding rhythm — activity by hour and by weekday over the observed window of the public events feed." title="When I work — from the public events feed, aggregate only" src="assets/generated/rhythm.svg?v=ab2e8ee9a379">
+  <source media="(max-width: 500px)" srcset="assets/generated/rhythm-m.svg?v=04dbf1079608">
+  <img alt="Coding rhythm — activity by hour and by weekday over the observed window of the public events feed." title="When I work — from the public events feed, aggregate only" src="assets/generated/rhythm.svg?v=88bf1ce7338e">
 </picture>
 
 <picture>
-  <source media="(max-width: 500px)" srcset="assets/generated/languages-m.svg?v=de6eb008e9a7">
-  <img alt="Language signal — lines I added in commits I authored, across my owned public repositories." title="Lines I wrote, from a real clone and git log --numstat" src="assets/generated/languages.svg?v=d5b44870d507">
+  <source media="(max-width: 500px)" srcset="assets/generated/languages-m.svg?v=cb666c074ea0">
+  <img alt="Language signal — lines I added in commits I authored, across my owned public repositories." title="Lines I wrote, from a real clone and git log --numstat" src="assets/generated/languages.svg?v=796e504faa3d">
 </picture>
 
-<a href="https://github.com/MSTW666?tab=stars"><picture><source media="(max-width: 500px)" srcset="assets/generated/stars-m.svg?v=f1e20c17ea27"><img alt="Recently starred repositories — opens my stars tab" title="Open my stars tab" src="assets/generated/stars.svg?v=e519d752f9b2"></picture></a>
+<a href="https://github.com/MSTW666?tab=stars"><picture><source media="(max-width: 500px)" srcset="assets/generated/stars-m.svg?v=66167b4913b9"><img alt="Recently starred repositories — opens my stars tab" title="Open my stars tab" src="assets/generated/stars.svg?v=cda044e1bf10"></picture></a>
 <picture><source media="(max-width: 500px)" srcset="assets/generated/activity-m.svg?v=840db64db724"><img alt="Recent activity — releases, repositories opened to the public, pull requests" title="Releases, repos opened to the public, pull requests" src="assets/generated/activity.svg?v=a0312058c078"></picture>
 
 <!-- ═══ 05 // CONTRIBUTIONS ══════════════════════════════════════════════ -->
@@ -107,8 +107,8 @@
 </picture>
 
 <picture>
-  <source media="(max-width: 500px)" srcset="assets/generated/contributions-m.svg?v=8a0384f504b5">
-  <img alt="A year of contributions drawn as a filled field" title="A year of contributions" src="assets/generated/contributions.svg?v=400afc741346">
+  <source media="(max-width: 500px)" srcset="assets/generated/contributions-m.svg?v=f8d42ae4586e">
+  <img alt="A year of contributions drawn as a filled field" title="A year of contributions" src="assets/generated/contributions.svg?v=135bccd1e024">
 </picture>
 
 <!-- ═══ 06 // AESTHETIC INPUTS ═══════════════════════════════════════════ -->
