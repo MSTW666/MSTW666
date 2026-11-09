@@ -92,11 +92,11 @@
 </picture>
 
 <picture>
-  <source media="(max-width: 500px)" srcset="assets/generated/languages-m.svg?v=801fb0803d7d">
-  <img alt="Language signal — lines I added in commits I authored, across my owned public repositories." title="Lines I wrote, from a real clone and git log --numstat" src="assets/generated/languages.svg?v=7903a23bcce3">
+  <source media="(max-width: 500px)" srcset="assets/generated/languages-m.svg?v=a2d5d5428935">
+  <img alt="Language signal — lines I added in commits I authored, across my owned public repositories." title="Lines I wrote, from a real clone and git log --numstat" src="assets/generated/languages.svg?v=062b91e39611">
 </picture>
 
-<a href="https://github.com/MSTW666?tab=stars"><picture><source media="(max-width: 500px)" srcset="assets/generated/stars-m.svg?v=7041a92f9427"><img alt="Recently starred repositories — opens my stars tab" title="Open my stars tab" src="assets/generated/stars.svg?v=7f42f103e93e"></picture></a>
+<a href="https://github.com/MSTW666?tab=stars"><picture><source media="(max-width: 500px)" srcset="assets/generated/stars-m.svg?v=68b5db01d789"><img alt="Recently starred repositories — opens my stars tab" title="Open my stars tab" src="assets/generated/stars.svg?v=efa401fc2c16"></picture></a>
 <picture><source media="(max-width: 500px)" srcset="assets/generated/activity-m.svg?v=840db64db724"><img alt="Recent activity — releases, repositories opened to the public, pull requests" title="Releases, repos opened to the public, pull requests" src="assets/generated/activity.svg?v=a0312058c078"></picture>
 
 <!-- ═══ 05 // CONTRIBUTIONS ══════════════════════════════════════════════ -->
