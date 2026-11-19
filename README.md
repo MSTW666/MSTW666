@@ -87,8 +87,8 @@
 </picture>
 
 <picture>
-  <source media="(max-width: 500px)" srcset="assets/generated/rhythm-m.svg?v=bbfda00ab56d">
-  <img alt="Coding rhythm — activity by hour and by weekday over the observed window of the public events feed." title="When I work — from the public events feed, aggregate only" src="assets/generated/rhythm.svg?v=c527110e02d5">
+  <source media="(max-width: 500px)" srcset="assets/generated/rhythm-m.svg?v=c1c9bb71c50b">
+  <img alt="Coding rhythm — activity by hour and by weekday over the observed window of the public events feed." title="When I work — from the public events feed, aggregate only" src="assets/generated/rhythm.svg?v=116afd5adc3d">
 </picture>
 
 <picture>
