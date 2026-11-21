@@ -87,17 +87,17 @@
 </picture>
 
 <picture>
-  <source media="(max-width: 500px)" srcset="assets/generated/rhythm-m.svg?v=c1c9bb71c50b">
-  <img alt="Coding rhythm — activity by hour and by weekday over the observed window of the public events feed." title="When I work — from the public events feed, aggregate only" src="assets/generated/rhythm.svg?v=116afd5adc3d">
+  <source media="(max-width: 500px)" srcset="assets/generated/rhythm-m.svg?v=493f77fd5c38">
+  <img alt="Coding rhythm — activity by hour and by weekday over the observed window of the public events feed." title="When I work — from the public events feed, aggregate only" src="assets/generated/rhythm.svg?v=f53c27216219">
 </picture>
 
 <picture>
-  <source media="(max-width: 500px)" srcset="assets/generated/languages-m.svg?v=164b62fa9c20">
-  <img alt="Language signal — lines I added in commits I authored, across my owned public repositories." title="Lines I wrote, from a real clone and git log --numstat" src="assets/generated/languages.svg?v=238e9a292185">
+  <source media="(max-width: 500px)" srcset="assets/generated/languages-m.svg?v=f8b7a6b263e1">
+  <img alt="Language signal — lines I added in commits I authored, across my owned public repositories." title="Lines I wrote, from a real clone and git log --numstat" src="assets/generated/languages.svg?v=b2acbb5dbee9">
 </picture>
 
 <a href="https://github.com/MSTW666?tab=stars"><picture><source media="(max-width: 500px)" srcset="assets/generated/stars-m.svg?v=888b3e917f52"><img alt="Recently starred repositories — opens my stars tab" title="Open my stars tab" src="assets/generated/stars.svg?v=4e583b650e7c"></picture></a>
-<picture><source media="(max-width: 500px)" srcset="assets/generated/activity-m.svg?v=840db64db724"><img alt="Recent activity — releases, repositories opened to the public, pull requests" title="Releases, repos opened to the public, pull requests" src="assets/generated/activity.svg?v=a0312058c078"></picture>
+<picture><source media="(max-width: 500px)" srcset="assets/generated/activity-m.svg?v=50e4a27dab12"><img alt="Recent activity — releases, repositories opened to the public, pull requests" title="Releases, repos opened to the public, pull requests" src="assets/generated/activity.svg?v=8950e57f3f6c"></picture>
 
 <!-- ═══ 05 // CONTRIBUTIONS ══════════════════════════════════════════════ -->
 
@@ -107,8 +107,8 @@
 </picture>
 
 <picture>
-  <source media="(max-width: 500px)" srcset="assets/generated/contributions-m.svg?v=c5a2e645ea08">
-  <img alt="A year of contributions drawn as a filled field" title="A year of contributions" src="assets/generated/contributions.svg?v=4fcdfe7872ed">
+  <source media="(max-width: 500px)" srcset="assets/generated/contributions-m.svg?v=cac0f1d21d4f">
+  <img alt="A year of contributions drawn as a filled field" title="A year of contributions" src="assets/generated/contributions.svg?v=134e32868d7f">
 </picture>
 
 <!-- ═══ 06 // AESTHETIC INPUTS ═══════════════════════════════════════════ -->
@@ -133,8 +133,8 @@
 </picture>
 
 <picture>
-  <source media="(max-width: 500px)" srcset="assets/generated/fortune-m.svg?v=04f256372d9e">
-  <img alt="A line that changes daily" title="Changes daily" src="assets/generated/fortune.svg?v=7820bd3d8279">
+  <source media="(max-width: 500px)" srcset="assets/generated/fortune-m.svg?v=6e17c50b8ccc">
+  <img alt="A line that changes daily" title="Changes daily" src="assets/generated/fortune.svg?v=2f68f48a511a">
 </picture>
 
 
