@@ -87,8 +87,8 @@
 </picture>
 
 <picture>
-  <source media="(max-width: 500px)" srcset="assets/generated/rhythm-m.svg?v=bf975dd1c848">
-  <img alt="Coding rhythm — activity by hour and by weekday over the observed window of the public events feed." title="When I work — from the public events feed, aggregate only" src="assets/generated/rhythm.svg?v=b0cbedcdd666">
+  <source media="(max-width: 500px)" srcset="assets/generated/rhythm-m.svg?v=66b2ed501965">
+  <img alt="Coding rhythm — activity by hour and by weekday over the observed window of the public events feed." title="When I work — from the public events feed, aggregate only" src="assets/generated/rhythm.svg?v=8494ae76abe6">
 </picture>
 
 <picture>
@@ -97,7 +97,7 @@
 </picture>
 
 <a href="https://github.com/MSTW666?tab=stars"><picture><source media="(max-width: 500px)" srcset="assets/generated/stars-m.svg?v=888b3e917f52"><img alt="Recently starred repositories — opens my stars tab" title="Open my stars tab" src="assets/generated/stars.svg?v=4e583b650e7c"></picture></a>
-<picture><source media="(max-width: 500px)" srcset="assets/generated/activity-m.svg?v=ebbaae65f097"><img alt="Recent activity — releases, repositories opened to the public, pull requests" title="Releases, repos opened to the public, pull requests" src="assets/generated/activity.svg?v=9da6d4ac21bd"></picture>
+<picture><source media="(max-width: 500px)" srcset="assets/generated/activity-m.svg?v=21aac6c71017"><img alt="Recent activity — releases, repositories opened to the public, pull requests" title="Releases, repos opened to the public, pull requests" src="assets/generated/activity.svg?v=e86fe1d6cc2b"></picture>
 
 <!-- ═══ 05 // CONTRIBUTIONS ══════════════════════════════════════════════ -->
 
@@ -107,8 +107,8 @@
 </picture>
 
 <picture>
-  <source media="(max-width: 500px)" srcset="assets/generated/contributions-m.svg?v=0b464bc19588">
-  <img alt="A year of contributions drawn as a filled field" title="A year of contributions" src="assets/generated/contributions.svg?v=51a60637cbf8">
+  <source media="(max-width: 500px)" srcset="assets/generated/contributions-m.svg?v=fdc315b09d5b">
+  <img alt="A year of contributions drawn as a filled field" title="A year of contributions" src="assets/generated/contributions.svg?v=62eb419a171f">
 </picture>
 
 <!-- ═══ 06 // AESTHETIC INPUTS ═══════════════════════════════════════════ -->
@@ -133,8 +133,8 @@
 </picture>
 
 <picture>
-  <source media="(max-width: 500px)" srcset="assets/generated/fortune-m.svg?v=6e17c50b8ccc">
-  <img alt="A line that changes daily" title="Changes daily" src="assets/generated/fortune.svg?v=2f68f48a511a">
+  <source media="(max-width: 500px)" srcset="assets/generated/fortune-m.svg?v=7fa965a45a17">
+  <img alt="A line that changes daily" title="Changes daily" src="assets/generated/fortune.svg?v=33902e7bd91f">
 </picture>
 
 
