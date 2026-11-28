@@ -97,7 +97,7 @@
 </picture>
 
 <a href="https://github.com/MSTW666?tab=stars"><picture><source media="(max-width: 500px)" srcset="assets/generated/stars-m.svg?v=ac4a547123b3"><img alt="Recently starred repositories — opens my stars tab" title="Open my stars tab" src="assets/generated/stars.svg?v=1fde26506960"></picture></a>
-<picture><source media="(max-width: 500px)" srcset="assets/generated/activity-m.svg?v=76497572d9f3"><img alt="Recent activity — releases, repositories opened to the public, pull requests" title="Releases, repos opened to the public, pull requests" src="assets/generated/activity.svg?v=9a6f424d61dd"></picture>
+<picture><source media="(max-width: 500px)" srcset="assets/generated/activity-m.svg?v=d93a05ddf5ee"><img alt="Recent activity — releases, repositories opened to the public, pull requests" title="Releases, repos opened to the public, pull requests" src="assets/generated/activity.svg?v=a4b9a14986cd"></picture>
 
 <!-- ═══ 05 // CONTRIBUTIONS ══════════════════════════════════════════════ -->
 
@@ -107,8 +107,8 @@
 </picture>
 
 <picture>
-  <source media="(max-width: 500px)" srcset="assets/generated/contributions-m.svg?v=adc4f3b7bfe0">
-  <img alt="A year of contributions drawn as a filled field" title="A year of contributions" src="assets/generated/contributions.svg?v=72dba9baee79">
+  <source media="(max-width: 500px)" srcset="assets/generated/contributions-m.svg?v=8f05e0999222">
+  <img alt="A year of contributions drawn as a filled field" title="A year of contributions" src="assets/generated/contributions.svg?v=86d271c81dad">
 </picture>
 
 <!-- ═══ 06 // AESTHETIC INPUTS ═══════════════════════════════════════════ -->
@@ -133,8 +133,8 @@
 </picture>
 
 <picture>
-  <source media="(max-width: 500px)" srcset="assets/generated/fortune-m.svg?v=160972027cb0">
-  <img alt="A line that changes daily" title="Changes daily" src="assets/generated/fortune.svg?v=6b5dd3275441">
+  <source media="(max-width: 500px)" srcset="assets/generated/fortune-m.svg?v=8beb4e680885">
+  <img alt="A line that changes daily" title="Changes daily" src="assets/generated/fortune.svg?v=be5b6c5d74dd">
 </picture>
 
 
